@@ -10,9 +10,6 @@ Welcome to **ThirtySix Studio**, a modern, minimalistic agency portfolio built w
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
